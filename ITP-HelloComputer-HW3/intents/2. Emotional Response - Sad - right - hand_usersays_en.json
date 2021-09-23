@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0ae517e5-a375-4f5e-a03b-42b671115a7d",
+    "data": [
+      {
+        "text": "The right hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "363e76e4-f2c2-4f6f-8f93-d08051dfdc45",
+    "data": [
+      {
+        "text": "The right one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fab1d45f-6279-403d-8661-73b8c0e54408",
+    "data": [
+      {
+        "text": "I choose your right hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a046dc7-5d64-443d-b127-f9d9f908011a",
+    "data": [
+      {
+        "text": "Right hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

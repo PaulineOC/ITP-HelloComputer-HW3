@@ -1,0 +1,52 @@
+{
+  "id": "36dc9aaa-0c50-4131-a9f2-dc0f310083c6",
+  "name": "2. Emotional Response - Happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa9f8995-ec10-4309-a558-1d7c29ba1864",
+          "name": "Happy",
+          "required": false,
+          "dataType": "@Happy",
+          "value": "$Happy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yay I\u0027m delighted to hear it. We should celebrate...but you should go to sleep since it\u0027s pretty late. Get yourself a cookie tomorrow!",
+            "Woohoo! Keep the good vibes going...after a good night\u0027s sleep. You should do something to celebrate your victories."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

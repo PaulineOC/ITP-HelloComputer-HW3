@@ -1,0 +1,40 @@
+{
+  "id": "285bd327-f350-430c-a3e9-5860cbaca917",
+  "parentId": "16a8e70e-f891-4099-b129-c8e88f8cb050",
+  "rootParentId": "16a8e70e-f891-4099-b129-c8e88f8cb050",
+  "name": "2. Emotional Response - Angry - right - hand",
+  "auto": true,
+  "contexts": [
+    "2EmotionalResponse-Angry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "2EmotionalResponse-Angry.2EmotionalResponse-Angry-right-hand",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You chose my right hand. How about watching a funny video or listening to a good song to take your mind off things? It\u0027s so late, so you should probably sleep soon. Good luck with everything!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "910aa3b9-10a6-456e-9fa7-babab96a1f17",
+  "parentId": "16a8e70e-f891-4099-b129-c8e88f8cb050",
+  "rootParentId": "16a8e70e-f891-4099-b129-c8e88f8cb050",
+  "name": "2. Emotional Response - Angry - left - hand",
+  "auto": true,
+  "contexts": [
+    "2EmotionalResponse-Angry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "2EmotionalResponse-Angry.2EmotionalResponse-Angry-left-hand",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you turn to your bed, maybe you can scream into a pillow. Just let it all out. I hope tomorrow brings more happiness. Feel better and get some rest!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

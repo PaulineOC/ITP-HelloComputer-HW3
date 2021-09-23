@@ -1,0 +1,54 @@
+[
+  {
+    "id": "657cd45e-9056-4beb-9755-f509c60f6a77",
+    "data": [
+      {
+        "text": "Left hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "070b1246-d56c-42d8-92ed-620ab0fde4dd",
+    "data": [
+      {
+        "text": "I choose your left hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a24665a1-dc4b-4cb5-b0c9-3e8a24633f12",
+    "data": [
+      {
+        "text": "The left one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd6a6431-f404-4c35-ae3f-3fc715577444",
+    "data": [
+      {
+        "text": "The left hand",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

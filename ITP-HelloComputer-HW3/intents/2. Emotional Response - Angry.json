@@ -1,0 +1,55 @@
+{
+  "id": "16a8e70e-f891-4099-b129-c8e88f8cb050",
+  "name": "2. Emotional Response - Angry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "2EmotionalResponse-Angry-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3da512fd-21c2-449a-843a-307dec122413",
+          "name": "Angry",
+          "required": false,
+          "dataType": "@Angry",
+          "value": "$Angry",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry to hear that. Let me try to take your mind off things. Imagine I\u0027m holding my hands out to you. Pick my left or right hand."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

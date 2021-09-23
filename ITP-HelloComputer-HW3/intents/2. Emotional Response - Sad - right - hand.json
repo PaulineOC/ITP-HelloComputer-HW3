@@ -1,0 +1,40 @@
+{
+  "id": "5ad1535b-8a8d-4511-9572-384e805b3ecd",
+  "parentId": "01dea010-d7b2-4b2c-9e76-2dbcaa4964f0",
+  "rootParentId": "01dea010-d7b2-4b2c-9e76-2dbcaa4964f0",
+  "name": "2. Emotional Response - Sad - right - hand",
+  "auto": true,
+  "contexts": [
+    "2EmotionalResponse-Sad-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "2EmotionalResponse-Sad.2EmotionalResponse-Sad-right-hand",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You chose my right hand. Here is a joke. Why did the computer show up at work late? It had a \u2028hard drive. I hope that made your night a little better. Good luck with your work and don\u0027t forget to sleep!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

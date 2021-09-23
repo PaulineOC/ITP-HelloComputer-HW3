@@ -1,0 +1,40 @@
+{
+  "id": "f6d70204-e7c7-47a6-90ce-369b49cd135c",
+  "parentId": "01dea010-d7b2-4b2c-9e76-2dbcaa4964f0",
+  "rootParentId": "01dea010-d7b2-4b2c-9e76-2dbcaa4964f0",
+  "name": "2. Emotional Response - Sad - left - hand",
+  "auto": true,
+  "contexts": [
+    "2EmotionalResponse-Sad-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "2EmotionalResponse-Sad.2EmotionalResponse-Sad-left-hand",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You chose my left hand. I just want you to know that according to Albert Einstein, “n the middle of difficulty lies opportunity.”. I hope his words made you feel a little better. Good luck with your work and don\u0027t forget to sleep!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,56 @@
+{
+  "id": "01dea010-d7b2-4b2c-9e76-2dbcaa4964f0",
+  "name": "2. Emotional Response - Sad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "2EmotionalResponse-Sad-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "827c61d8-f0be-4ee7-aa17-2bd96f471cd8",
+          "name": "Sad",
+          "required": false,
+          "dataType": "@Sad",
+          "value": "$Sad",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I hope you feel better soon, but I have an idea. Imagine I\u0027m holding my closed hands out to you. Choose my left or right hand.",
+            "Awwww. I\u0027m sorry to hear that you\u0027re $Sad. Let me try to make you feel better. Imagine I\u0027m holding my closed hands out to you. Choose my left or right hand."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

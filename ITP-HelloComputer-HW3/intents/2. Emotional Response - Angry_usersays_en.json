@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9daa92ea-8afc-4dfb-93cf-0d75589ada97",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49fce107-296a-4f46-a7aa-4b3d4bb3a741",
+    "data": [
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e55a0160-36e9-4dd7-b070-6083c53683f9",
+    "data": [
+      {
+        "text": "I\u0027m quite ",
+        "userDefined": false
+      },
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eccccf0c-c072-48f6-8e17-22fd02d6f7ed",
+    "data": [
+      {
+        "text": "I\u0027m super ",
+        "userDefined": false
+      },
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4db0dbea-093e-4175-84f7-83e9cfaf5875",
+    "data": [
+      {
+        "text": "I\u0027m very ",
+        "userDefined": false
+      },
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "880ea158-e4b1-4e5b-9151-7262f3d693ae",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "angry",
+        "meta": "@Angry",
+        "alias": "Angry",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

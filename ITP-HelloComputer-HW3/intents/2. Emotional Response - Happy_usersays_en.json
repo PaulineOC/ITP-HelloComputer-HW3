@@ -1,0 +1,93 @@
+[
+  {
+    "id": "60cafa04-6b99-4768-be3e-4fa551fadb95",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Happy",
+        "alias": "Happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5ea92e6-b954-4b66-8d6f-8bccdba691b0",
+    "data": [
+      {
+        "text": "I\u0027m very ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Happy",
+        "alias": "Happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12ee0706-8b65-4d03-bf09-b736eb79a9bf",
+    "data": [
+      {
+        "text": "I\u0027m super ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Happy",
+        "alias": "Happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e9e7e73-96d0-4249-bf5c-539963bdf453",
+    "data": [
+      {
+        "text": "happy",
+        "meta": "@Happy",
+        "alias": "Happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d67a6f7-bb09-4dd2-8016-580b5ad9952e",
+    "data": [
+      {
+        "text": "I\u0027m feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "happy",
+        "meta": "@Happy",
+        "alias": "Happy",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]
